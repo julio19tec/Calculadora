@@ -1,0 +1,10 @@
+C:\Users\Julio Ibarra\source\repos\AppCalc\AppCalc\bin\Debug\AppCalc.exe.config
+C:\Users\Julio Ibarra\source\repos\AppCalc\AppCalc\bin\Debug\AppCalc.exe
+C:\Users\Julio Ibarra\source\repos\AppCalc\AppCalc\bin\Debug\AppCalc.pdb
+C:\Users\Julio Ibarra\source\repos\AppCalc\AppCalc\obj\Debug\AppCalc.csprojAssemblyReference.cache
+C:\Users\Julio Ibarra\source\repos\AppCalc\AppCalc\obj\Debug\AppCalc.Form1.resources
+C:\Users\Julio Ibarra\source\repos\AppCalc\AppCalc\obj\Debug\AppCalc.Properties.Resources.resources
+C:\Users\Julio Ibarra\source\repos\AppCalc\AppCalc\obj\Debug\AppCalc.csproj.GenerateResource.cache
+C:\Users\Julio Ibarra\source\repos\AppCalc\AppCalc\obj\Debug\AppCalc.csproj.CoreCompileInputs.cache
+C:\Users\Julio Ibarra\source\repos\AppCalc\AppCalc\obj\Debug\AppCalc.exe
+C:\Users\Julio Ibarra\source\repos\AppCalc\AppCalc\obj\Debug\AppCalc.pdb
